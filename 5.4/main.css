@@ -1,0 +1,58 @@
+body {
+	width: 450px;
+	height: 550px;
+}
+.container {
+	margin-left: 88%;
+	height: 100%;
+	width: 100%;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+.header {
+	margin-top: 4%;
+	margin-left: 4%;
+	height: 10%;
+	width: 90%;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+.main {
+	margin-top: 4%;
+	margin-left: 4%;
+	width: 90%;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+.row-left {
+	margin: 5% 5% 5% 5%;
+	float: left;
+	width: 55%;
+	min-height: 90px;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+.row-right {
+	margin-top: 5%;
+	float: left;
+	width: 30%;
+	min-height: 90px;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+.clearfix {
+	clear: both;
+}
+footer {
+	margin: 5% 2% 2% 4%;
+	width: 90%;
+	height: 12%;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}

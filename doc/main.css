@@ -1,0 +1,59 @@
+body {
+	background: rgb(209, 209, 209);
+	font-size: 17px;
+}
+.container {
+	background: rgb(255, 255, 255);
+}
+.header {
+	width: 760px;
+	margin-left: -15px;
+	margin-bottom: 100px;
+}
+
+.img-col-2 {
+	width: 275px;
+}
+.img-col-3 {
+	width: 180px;
+}
+.btn-col-2 {
+	margin-top: 50px;
+	margin-bottom: 25px;
+	width: 275px;
+}
+.btn-col-3 {
+	width: 180px;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+.btn-fb {
+	margin-top: 50px;
+	margin-bottom: 25px;
+	width: 575px;
+}
+
+.grey {
+	background: rgb(209, 209, 209);
+}
+.footer {
+	padding: 10px;
+	text-align: center;
+	color: white;
+	font-size: 12px;
+	line-height: 17px;
+}
+.underline {
+	text-decoration: underline;
+	font-weight: bold;
+}
+.bold {
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+.center {
+	text-align: center;
+}

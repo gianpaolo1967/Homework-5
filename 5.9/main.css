@@ -1,0 +1,30 @@
+.container {
+	position: relative;
+	width: 560px;
+	height: 450px;
+	background: rgb(128, 205, 198);
+}
+.clouds {
+	width: 294px;
+	position: absolute;
+	left: 220px;
+}
+.world {
+	width: 550px;
+	position: absolute;
+	left: 10px;
+	top: 120px;
+}
+.water {
+	width: 560px;
+	position: absolute;
+	top: 422px;
+	z-index: 9;
+}
+.ship {
+	width: 117px;
+	position: absolute;
+	top: 313px;
+	left: 24px;
+	z-index: 8;
+}
